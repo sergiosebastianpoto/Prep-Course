@@ -28,9 +28,8 @@ section {
 }
 
 article { 
-    margin-left: 2%;
-    width: auto;
-    
+    width: 50%;
+    padding: 2rem;
 }
 
 img {
@@ -40,8 +39,9 @@ margin-right: 40px;
 margin-left: 20px;
 }
 
-aside {margin-left: 25%;
-margin-right:0%}
+aside {width: 50%;
+    padding: 2rem;
+}
 
 .info {margin: 1px;}
 
