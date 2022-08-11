@@ -1,0 +1,49 @@
+
+
+
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color:gainsboro;
+margin-left: 10%;
+}
+
+header, section {
+width: 960px; 
+margin: 10px;
+
+
+}
+
+header {
+    display: flex;
+    color: aliceblue;
+    background-color: dimgrey
+    ;
+}
+
+section {
+    width: 960px;
+    display: flex;
+    background-color: aliceblue;
+}
+
+article { 
+    margin-left: 2%;
+    width: auto;
+    
+}
+
+img {
+width: 250px;
+height: 250px;
+margin-right: 40px;
+margin-left: 20px;
+}
+
+aside {margin-left: 25%;
+margin-right:0%}
+
+.info {margin: 1px;}
+
+.interes {width: auto;}
+ 
